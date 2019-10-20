@@ -5,3 +5,5 @@ while pressing the second checkbox, this will result in all the checkboxes inbet
 
 Based on Wes Bos javascript 30 day challenge
 
+<img width="1288" alt="Screen Shot 2019-10-20 at 2 40 42 pm" src="https://user-images.githubusercontent.com/48931725/67154460-b87e7180-f348-11e9-9347-cb310cb5b92e.png">
+
